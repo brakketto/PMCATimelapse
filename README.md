@@ -1,3 +1,5 @@
+based on PMCADemo.. idea is to have a timelapse.. hope to have time to do it :)
+
 # PMCADemo #
 
 An Android demo app for Sony cameras to test some features.
